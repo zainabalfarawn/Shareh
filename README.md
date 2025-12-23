@@ -1,6 +1,8 @@
 # 🧠 Shareh  
 **Shareh: Explainable Knowledge Graph-based Arabic Recommender System**
 
+📄 DOI: https://doi.org/10.5281/zenodo.18036675
+
 ---
 
 ### 📘 Overview  
@@ -24,12 +26,13 @@ It provides recommendations with interpretable reasoning paths, enhancing transp
 
 ---
 
-### 📊 Citation  
-This work is currently under review for publication.  
-If you use this repository, please cite it as:  
 
-> Alfarawn, Z. (2025). *Shareh: Explainable Knowledge Graph-based Arabic Recommender System.*  
-> GitHub repository: [https://github.com/zainabalfarawn/Shareh](https://github.com/zainabalfarawn/Shareh)
+### 📊 Citation
+This work has been **accepted for publication** (editorially accepted) in *PeerJ Computer Science (2025)* and is currently in production.  
+If you use this repository, please cite it as:
+
+> Katheeth, Z. (2025). *Shareh: Explainable Knowledge Graph-based Arabic Recommender System.*  
+> Zenodo. [https://doi.org/10.5281/zenodo.18036675](https://doi.org/10.5281/zenodo.18036675)
 
 
 ---
